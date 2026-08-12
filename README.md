@@ -63,19 +63,19 @@ Full reasoning for each decision is documented inline in the SQL scripts.
 ![Overview](HR_project/03_screenshot/01_Overview.png)
 
 ### Attrition Analysis
-![Attrition Analysis](03_screenshot/02_Attrition.png)
+![Attrition Analysis](HR_project/03_screenshot/02_Attrition.png)
 
 ### Payroll Analysis
-![Payroll Analysis](03_screenshot/03_Payroll.png)
+![Payroll Analysis](HR_project/03_screenshot/03_Payroll.png)
 
 ### Attendance Analysis
-![Attendance Analysis](03_screenshot/04_Attendance.png)
+![Attendance Analysis](HR_project/03_screenshot/04_Attendance.png)
 
 ### Promotion Fairness
-![Promotion Fairness](03_screenshot/05_Promotion.png)
+![Promotion Fairness](HR_project/03_screenshot/05_Promotion.png)
 
 ### Executive Summary
-![Executive Summary](03_screenshot/06_Executive_Summary.png)
+![Executive Summary](HR_project/03_screenshot/06_Executive_Summary.png)
 
 ## Key Findings
 
